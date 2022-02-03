@@ -3,6 +3,7 @@
 Contact Info:
 * email: mlantanavicius@gmail.com
 * LinkedIn: [Mantas Antanavičius](https://www.linkedin.com/in/mantas-antanavi%C4%8Dius-b320a51b7/)
+* Phone: +37064323393
 
 ### Summary
 My friends and colleagues describe me as a quick learner, responsible, social, and able to take on a challenge. After one of my friends introduced me to the world of programming, it sparked my interest in it, and I set myself a new goal of becoming a front-end developer.
